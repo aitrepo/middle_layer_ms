@@ -1,0 +1,6 @@
+	// HTTPS server with certificate
+		https: {
+			key: fs.readFileSync("ssl/test_key.pem"),
+			cert: fs.readFileSync("ssl/test_cert.pem"),
+			passphrase: "aaa123"
+		},
