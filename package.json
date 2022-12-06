@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "moleculer": "^0.13.9",
-    "moleculer-web": "^0.8.5",
+    "moleculer-web": "^0.10.4",
     "request": "^2.88.0"
   },
   "engines": {
